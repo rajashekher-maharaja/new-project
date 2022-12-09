@@ -4,3 +4,5 @@ Hi welcome to
 you will learn
 
 git is very annoying
+
+but git is easy to learn
