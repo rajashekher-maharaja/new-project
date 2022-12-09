@@ -1,2 +1,6 @@
 Hi welcome to
  the git tutorial
+
+you will learn
+
+git is very annoying
